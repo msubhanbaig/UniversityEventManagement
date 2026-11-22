@@ -51,6 +51,3 @@ src/
 javac -d bin src/model/*.java src/main/*.java
 java -cp bin main.Main
 ```
-
-**Demo accounts** (password `1234` for all): `ali@uni.edu` (Student), `ayesha@uni.edu` (Student),
-`sara@uni.edu` (Event Organizer), `bilal@uni.edu` (University Administrator), `admin@uni.edu` (System Administrator).
